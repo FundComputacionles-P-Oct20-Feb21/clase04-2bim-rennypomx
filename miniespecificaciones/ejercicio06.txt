@@ -12,13 +12,13 @@
 12.  funcion obtenerSuma(a, i; b, i) 
 13.     p, i[0-n]
 14.     p <-- a + b
-13.     Escribir "La suma es :" + p
-14.  fin funcion obtenerSuma
-14.
-12.  funcion obtenerSumaDos(a, i; b, i) : i 
-13.     p, i[0-n]
-14.     p <-- a + b
-13.     return p
-14.  fin funcion obtenerSuma
+15.     Escribir "La suma es :" + p
+16.  fin funcion obtenerSuma
+17.
+18.  funcion obtenerSumaDos(a, i; b, i) : i 
+19.     p, i[0-n]
+20.     p <-- a + b
+21.     return p
+22.  fin funcion obtenerSuma
 
-15. Fin
+23. Fin

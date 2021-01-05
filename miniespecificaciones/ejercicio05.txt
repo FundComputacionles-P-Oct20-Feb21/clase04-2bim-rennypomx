@@ -9,7 +9,7 @@
 9.      obtenerTablaSuma(tabla, valorLimite)
 10.  fin funcion principal 
 11.  
-12. // función para multiplicar
+12.  // función para multiplicar
 13.  funcion obtenerTablaMultiplicar(tabla, i; limite, i) 
 14.     contador, i[0-n] <-- 1
 15.     operacion, i[0-n]
@@ -22,7 +22,7 @@
 22.     Escribir mensaje
 23.  fin funcion obtenerTablaMultiplicar
 24.
-25.  // función para sumar
+25.   // función para sumar
 26.  funcion obtenerTablaSuma(tabla, i; limite, i) 
 27.     contador, i[0-n] <-- 1
 28.     operacion, i[0-n]

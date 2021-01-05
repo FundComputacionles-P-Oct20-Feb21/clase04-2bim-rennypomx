@@ -13,11 +13,11 @@
 14.     Escribir "La suma es :" + p
 15.  fin funcion obtenerSuma
 16.
-22.  funcion obtenerValor(a, i) : i
-21.     m, i[0-n]
-23.     (valores(5),i[0-n])
-24.     valores <-- {5, 10, 15, 20, 25}
-24.     m <-- valores[a]
-25.     return m
+17.  funcion obtenerValor(a, i) : i
+18.     m, i[0-n]
+19.     (valores(5),i[0-n])
+20.     valores <-- {5, 10, 15, 20, 25}
+21.     m <-- valores[a]
+22.     return m
 23.  fin funcion obtenerValor
-22. Fin
+24. Fin

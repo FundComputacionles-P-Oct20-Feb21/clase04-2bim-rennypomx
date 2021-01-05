@@ -8,7 +8,7 @@
 8.        obtenerTabla(cont, valorLimite)
 9.      FinPara
 10.  fin funcion principal 
-11. // se define un método o función
+11.    // se define un método o función
 12.  funcion obtenerTabla(tabla, i; limite, i) 
 13.     contador, i[0-n] <-- 1
 14.     operacion, i[0-n]
